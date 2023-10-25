@@ -1,3 +1,5 @@
+![Header](https://i.pinimg.com/originals/bd/1f/2b/bd1f2bc4c6d90b83c6d5eac24b4c4c38.jpg)
+
 <h1 align="center">Hi 👋, I'm Okta Khoe</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Prof. Mcgonagall and Hedwig, Harry's White Owl" width="400" src="https://media.tenor.com/Qkr6TqhBlEEAAAAC/harry-potter-hp.gif">
